@@ -9,3 +9,19 @@ A boilerplate project for building, documenting, and testing reusable UI compone
 - 🎨 Tailwind CSS — utility-first styling for rapid UI development
 - 📘 Storybook — isolated component development and documentation
 - 🧱 Component-driven architecture — build consistent, reusable interfaces
+
+### 🔧 Getting Started
+
+To see this page run:
+
+```bash
+npm run dev
+```
+
+To see the storybook run:
+
+```bash
+npm run storybook
+```
+
+[Visit my Github profile!](https://github.com/skittlexyz)
